@@ -1,5 +1,4 @@
-# Write your code here.
-katz_deli = []
+# Write your code here
 
 def line(x)
   line_array = []
